@@ -1,0 +1,81 @@
+.header {
+    display: flex;
+    height: 85px;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.header .logo {
+    width: 180px;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.header .inputarea {
+    width: 500px;
+    height: inherit;
+    display: flex;
+    margin-left: 20px;
+}
+
+.header .inputText {
+    margin-top: 20px;
+    height: 47px;
+}
+
+.header .inputText:focus {
+    box-shadow: rgb(4 17 29 / 25%) 0px 0px 8px 0px;
+}
+
+.header .header-right {
+    float: right;
+    position: relative;
+    width: 50%;
+    justify-content: flex-end;
+    display: flex;
+    height: 72px;
+}
+
+.header .wallet {
+    margin-top: 20px;
+}
+
+.header .profile {
+    display: flex;
+}
+
+.header .avatar {
+    width: 72px;
+    height: 72px;
+}
+
+
+@media only screen and (max-width: 1500px) {
+    .header-right {
+        /* max-width: 650px !important; */
+    }
+}
+
+@media only screen and (max-width: 1375px) {
+    .header-right {
+        /* max-width: 550px !important; */
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .header .logo {
+        font-size: 28px;
+        padding-top: 10px;
+    }
+
+    .header .inputarea {
+        width: 250px;
+    }
+
+    .wallet {}
+
+    .header .header-right {
+        /* max-width: 550px !important; */
+
+    }
+}

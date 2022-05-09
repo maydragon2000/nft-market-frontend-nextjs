@@ -1,0 +1,18 @@
+.arrow-image {
+    width: 24px;
+    height: 24px;
+}
+
+.arrow-image-wrap {
+    width: 40px;
+}
+
+.plus-image,
+.minus-image {
+    width: 24px;
+    height: 24px;
+}
+
+.SingleFilter::-webkit-scrollbar {
+    display: none;
+}

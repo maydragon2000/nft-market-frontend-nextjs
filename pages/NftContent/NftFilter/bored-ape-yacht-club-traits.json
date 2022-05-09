@@ -1,0 +1,718 @@
+{
+	"Background": [
+		{
+			"value": "Blue",
+			"count": 1242
+		},
+		{
+			"value": "Orange",
+			"count": 1273
+		},
+		{
+			"value": "Army Green",
+			"count": 1243
+		},
+		{
+			"value": "Gray",
+			"count": 1170
+		},
+		{
+			"value": "Purple",
+			"count": 1291
+		},
+		{
+			"value": "New Punk Blue",
+			"count": 1232
+		},
+		{
+			"value": "Aquamarine",
+			"count": 1266
+		},
+		{
+			"value": "Yellow",
+			"count": 1283
+		}
+	],
+	"Clothes": [
+		{
+			"value": "Guayabera",
+			"count": 232
+		},
+		{
+			"value": "Leather Punk Jacket",
+			"count": 153
+		},
+		{
+			"value": "Work Vest",
+			"count": 188
+		},
+		{
+			"value": "Navy Striped Tee",
+			"count": 334
+		},
+		{
+			"value": "Blue Dress",
+			"count": 95
+		},
+		{
+			"value": "Prom Dress",
+			"count": 103
+		},
+		{
+			"value": "Sailor Shirt",
+			"count": 284
+		},
+		{
+			"value": "Toga",
+			"count": 202
+		},
+		{
+			"value": "Biker Vest",
+			"count": 253
+		},
+		{
+			"value": "Bone Tee",
+			"count": 230
+		},
+		{
+			"value": "Striped Tee",
+			"count": 412
+		},
+		{
+			"value": "NONE",
+			"count": 1886
+		},
+		{
+			"value": "Black T",
+			"count": 334
+		},
+		{
+			"value": "Wool Turtleneck",
+			"count": 240
+		},
+		{
+			"value": "Tanktop",
+			"count": 235
+		},
+		{
+			"value": "Sleeveless T",
+			"count": 252
+		},
+		{
+			"value": "Cowboy Shirt",
+			"count": 119
+		},
+		{
+			"value": "Prison Jumpsuit",
+			"count": 235
+		},
+		{
+			"value": "Bandolier",
+			"count": 163
+		},
+		{
+			"value": "Lumberjack Shirt",
+			"count": 213
+		},
+		{
+			"value": "Leather Jacket",
+			"count": 206
+		},
+		{
+			"value": "Bone Necklace",
+			"count": 203
+		},
+		{
+			"value": "Service",
+			"count": 142
+		},
+		{
+			"value": "Black Holes T",
+			"count": 205
+		},
+		{
+			"value": "Smoking Jacket",
+			"count": 221
+		},
+		{
+			"value": "Vietnam Jacket",
+			"count": 224
+		},
+		{
+			"value": "Hawaiian",
+			"count": 283
+		},
+		{
+			"value": "Lab Coat",
+			"count": 144
+		},
+		{
+			"value": "Caveman Pelt",
+			"count": 163
+		},
+		{
+			"value": "Puffy Vest",
+			"count": 227
+		},
+		{
+			"value": "Tweed Suit",
+			"count": 141
+		},
+		{
+			"value": "Rainbow Suspenders",
+			"count": 135
+		},
+		{
+			"value": "Sleeveless Logo T",
+			"count": 144
+		},
+		{
+			"value": "Stunt Jacket",
+			"count": 178
+		},
+		{
+			"value": "Tuxedo Tee",
+			"count": 235
+		},
+		{
+			"value": "Tie Dye",
+			"count": 144
+		},
+		{
+			"value": "Kings Robe",
+			"count": 68
+		},
+		{
+			"value": "Bayc T Black",
+			"count": 215
+		},
+		{
+			"value": "Bayc T Red",
+			"count": 140
+		},
+		{
+			"value": "Pimp Coat",
+			"count": 80
+		},
+		{
+			"value": "Admirals Coat",
+			"count": 64
+		},
+		{
+			"value": "Hip Hop",
+			"count": 128
+		},
+		{
+			"value": "Space Suit",
+			"count": 105
+		},
+		{
+			"value": "Black Suit",
+			"count": 42
+		}
+	],
+	"Earring": [
+		{
+			"value": "NONE",
+			"count": 7023
+		},
+		{
+			"value": "Silver Hoop",
+			"count": 882
+		},
+		{
+			"value": "Gold Stud",
+			"count": 439
+		},
+		{
+			"value": "Silver Stud",
+			"count": 823
+		},
+		{
+			"value": "Cross",
+			"count": 149
+		},
+		{
+			"value": "Gold Hoop",
+			"count": 462
+		},
+		{
+			"value": "Diamond Stud",
+			"count": 222
+		}
+	],
+	"Eyes": [
+		{
+			"value": "Closed",
+			"count": 710
+		},
+		{
+			"value": "Bloodshot",
+			"count": 846
+		},
+		{
+			"value": "Crazy",
+			"count": 407
+		},
+		{
+			"value": "Angry",
+			"count": 432
+		},
+		{
+			"value": "X Eyes",
+			"count": 243
+		},
+		{
+			"value": "Bored",
+			"count": 1714
+		},
+		{
+			"value": "Eyepatch",
+			"count": 333
+		},
+		{
+			"value": "Coins",
+			"count": 479
+		},
+		{
+			"value": "Sad",
+			"count": 551
+		},
+		{
+			"value": "3d",
+			"count": 487
+		},
+		{
+			"value": "Wide Eyed",
+			"count": 549
+		},
+		{
+			"value": "Sleepy",
+			"count": 751
+		},
+		{
+			"value": "Holographic",
+			"count": 151
+		},
+		{
+			"value": "Hypnotized",
+			"count": 220
+		},
+		{
+			"value": "Robot",
+			"count": 350
+		},
+		{
+			"value": "Blindfold",
+			"count": 264
+		},
+		{
+			"value": "Heart",
+			"count": 394
+		},
+		{
+			"value": "Zombie",
+			"count": 308
+		},
+		{
+			"value": "Scumbag",
+			"count": 233
+		},
+		{
+			"value": "Sunglasses",
+			"count": 352
+		},
+		{
+			"value": "Cyborg",
+			"count": 108
+		},
+		{
+			"value": "Laser Eyes",
+			"count": 69
+		},
+		{
+			"value": "Blue Beams",
+			"count": 49
+		}
+	],
+	"Fur": [
+		{
+			"value": "Red",
+			"count": 474
+		},
+		{
+			"value": "Golden Brown",
+			"count": 778
+		},
+		{
+			"value": "Gray",
+			"count": 496
+		},
+		{
+			"value": "Brown",
+			"count": 1370
+		},
+		{
+			"value": "Black",
+			"count": 1229
+		},
+		{
+			"value": "Cream",
+			"count": 636
+		},
+		{
+			"value": "Tan",
+			"count": 626
+		},
+		{
+			"value": "White",
+			"count": 397
+		},
+		{
+			"value": "Cheetah",
+			"count": 406
+		},
+		{
+			"value": "Pink",
+			"count": 511
+		},
+		{
+			"value": "Dark Brown",
+			"count": 1352
+		},
+		{
+			"value": "Zombie",
+			"count": 302
+		},
+		{
+			"value": "Blue",
+			"count": 490
+		},
+		{
+			"value": "Noise",
+			"count": 155
+		},
+		{
+			"value": "Dmt",
+			"count": 215
+		},
+		{
+			"value": "Robot",
+			"count": 265
+		},
+		{
+			"value": "Death Bot",
+			"count": 175
+		},
+		{
+			"value": "Trippy",
+			"count": 77
+		},
+		{
+			"value": "Solid Gold",
+			"count": 46
+		}
+	],
+	"Hat": [
+		{
+			"value": "Fez",
+			"count": 377
+		},
+		{
+			"value": "Cowboy Hat",
+			"count": 354
+		},
+		{
+			"value": "Halo",
+			"count": 324
+		},
+		{
+			"value": "Police Motorcycle Helmet",
+			"count": 130
+		},
+		{
+			"value": "NONE",
+			"count": 2256
+		},
+		{
+			"value": "Bunny Ears",
+			"count": 195
+		},
+		{
+			"value": "Short Mohawk",
+			"count": 318
+		},
+		{
+			"value": "Beanie",
+			"count": 578
+		},
+		{
+			"value": "Spinner Hat",
+			"count": 181
+		},
+		{
+			"value": "Fisherman's Hat",
+			"count": 345
+		},
+		{
+			"value": "Safari",
+			"count": 182
+		},
+		{
+			"value": "Prussian Helmet",
+			"count": 130
+		},
+		{
+			"value": "Girl's Hair Pink",
+			"count": 105
+		},
+		{
+			"value": "Party Hat 2",
+			"count": 107
+		},
+		{
+			"value": "Horns",
+			"count": 252
+		},
+		{
+			"value": "Vietnam Era Helmet",
+			"count": 223
+		},
+		{
+			"value": "Girl's Hair Short",
+			"count": 150
+		},
+		{
+			"value": "Faux Hawk",
+			"count": 136
+		},
+		{
+			"value": "Army Hat",
+			"count": 294
+		},
+		{
+			"value": "Seaman's Hat",
+			"count": 420
+		},
+		{
+			"value": "Bandana Blue",
+			"count": 89
+		},
+		{
+			"value": "Irish Boho",
+			"count": 225
+		},
+		{
+			"value": "Bayc Flipped Brim",
+			"count": 231
+		},
+		{
+			"value": "Commie Hat",
+			"count": 304
+		},
+		{
+			"value": "Sea Captain's Hat",
+			"count": 304
+		},
+		{
+			"value": "Sushi Chef Headband",
+			"count": 187
+		},
+		{
+			"value": "Ww2 Pilot Helm",
+			"count": 110
+		},
+		{
+			"value": "Baby's Bonnet",
+			"count": 158
+		},
+		{
+			"value": "S\u0026m Hat",
+			"count": 235
+		},
+		{
+			"value": "Bayc Hat Red",
+			"count": 119
+		},
+		{
+			"value": "Bowler",
+			"count": 262
+		},
+		{
+			"value": "Stuntman Helmet",
+			"count": 157
+		},
+		{
+			"value": "Bayc Hat Black",
+			"count": 228
+		},
+		{
+			"value": "Party Hat 1",
+			"count": 120
+		},
+		{
+			"value": "King's Crown",
+			"count": 77
+		},
+		{
+			"value": "Trippy Captain's Hat",
+			"count": 65
+		},
+		{
+			"value": "Laurel Wreath",
+			"count": 72
+		}
+	],
+	"Mouth": [
+		{
+			"value": "Phoneme  ooo",
+			"count": 255
+		},
+		{
+			"value": "Phoneme Vuh",
+			"count": 333
+		},
+		{
+			"value": "Bored Unshaven",
+			"count": 1551
+		},
+		{
+			"value": "Grin",
+			"count": 713
+		},
+		{
+			"value": "Bored",
+			"count": 2272
+		},
+		{
+			"value": "Bored Cigarette",
+			"count": 710
+		},
+		{
+			"value": "Phoneme L",
+			"count": 241
+		},
+		{
+			"value": "Rage",
+			"count": 266
+		},
+		{
+			"value": "Tongue Out",
+			"count": 202
+		},
+		{
+			"value": "Small Grin",
+			"count": 272
+		},
+		{
+			"value": "Dumbfounded",
+			"count": 505
+		},
+		{
+			"value": "Jovial",
+			"count": 296
+		},
+		{
+			"value": "Bored Unshaven Cigar",
+			"count": 94
+		},
+		{
+			"value": "Bored Unshaven Pipe",
+			"count": 101
+		},
+		{
+			"value": "Phoneme Wah",
+			"count": 163
+		},
+		{
+			"value": "Bored Unshaven Cigarette",
+			"count": 438
+		},
+		{
+			"value": "Discomfort",
+			"count": 208
+		},
+		{
+			"value": "Bored Pipe",
+			"count": 132
+		},
+		{
+			"value": "Bored Unshaven Bubblegum",
+			"count": 65
+		},
+		{
+			"value": "Bored Unshaven Party horn",
+			"count": 45
+		},
+		{
+			"value": "Bored Party Horn",
+			"count": 88
+		},
+		{
+			"value": "Phoneme Oh",
+			"count": 237
+		},
+		{
+			"value": "Grin Multicolored",
+			"count": 116
+		},
+		{
+			"value": "Bored Unshaven Kazoo",
+			"count": 61
+		},
+		{
+			"value": "Bored Cigar",
+			"count": 121
+		},
+		{
+			"value": "Bored Bubblegum",
+			"count": 119
+		},
+		{
+			"value": "Grin Gold Grill",
+			"count": 91
+		},
+		{
+			"value": "Grin Diamond Grill",
+			"count": 78
+		},
+		{
+			"value": "Bored Dagger",
+			"count": 49
+		},
+		{
+			"value": "Bored Pizza",
+			"count": 50
+		},
+		{
+			"value": "Bored Kazoo",
+			"count": 74
+		},
+		{
+			"value": "Bored Unshaven Pizza",
+			"count": 26
+		},
+		{
+			"value": "Bored Unshaven Dagger",
+			"count": 28
+		}
+	],
+	"TraitCount": [
+		{
+			"value": "6",
+			"count": 5323
+		},
+		{
+			"value": "5",
+			"count": 2540
+		},
+		{
+			"value": "7",
+			"count": 1883
+		},
+		{
+			"value": "4",
+			"count": 254
+		}
+	]
+}
